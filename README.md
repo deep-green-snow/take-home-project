@@ -1,5 +1,18 @@
+# Build and Test
+
+```
+g++ -o test.exe main.cpp ATMController.cpp
+./test.exe
+```
+
+***
+
+# Quick Introduction
+
+Implemented ATM controller with a single state machine. Simplify the implementation as possible as it could be. Cash Bin and ATM UI can be simply associated with get-set methods in the future. A FakeBankApi helps the controller to test each part of a general workflow.
+
 *** 
-### Instruction
+# Instruction
 
 Write code for a simple ATM. It doesn't need any UI (either graphical or console), but a controller should be implemented and tested.
 
