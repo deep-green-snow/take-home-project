@@ -9,7 +9,7 @@ g++ -o test.exe main.cpp ATMController.cpp
 
 # Quick Introduction
 
-Implemented ATM controller with a single state machine. Simplify the implementation as possible as it could be. Cash Bin and ATM UI can be simply associated with get-set methods in the future. A FakeBankApi helps the controller to test each part of a general workflow.
+Implemented ATM controller with a single state machine. Simplify the implementation as possible as it could be. Cash Bin and ATM UI can be simply associated with get-set methods in the future. A FakeBankApi helps the controller to test each part of a general workflow. The testing result is simply prompted on the terminal for a convenience. 
 
 *** 
 # Instruction
